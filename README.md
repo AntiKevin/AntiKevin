@@ -1,9 +1,9 @@
 
-# Olá, eu sou Kevin! 🦆
+# Olá, Meu Nome é Kevin! 🦆
 
 
 ## Conheça um pouco sobre mim:
-<img align='right' src='/cat.gif' width='200"'>
+<img align='right' src='/cat.gif' width='300"' height='200"'>
 
 👩‍💻 Atualmente trabalho em projetos de DataScience
 
@@ -17,15 +17,15 @@
 
 📫 Kevin_3467@yahoo.com
 
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntiKevin&theme=dark&hide=ProcFile" align='right'/>
   
   
 ## Stack :fire:
-- Data Analysis com **Python**.
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntiKevin&theme=dark&hide=ProcFile"/>
+
+
+- Data Analysis.
 - Data Science.
 - Python.
 - Machine Learning
 - Deep Learning
-
 
