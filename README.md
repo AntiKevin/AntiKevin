@@ -3,7 +3,7 @@
 
 
 ## Conheça um pouco sobre mim:
-<img align='right' src='https://https://github.com/AntiKevin/AntiKevin/cat.gif' width='200"'>
+<img align='right' src='/cat.gif' width='200"'>
 
 👩‍💻 Atualmente trabalho em projetos de DataScience
 
