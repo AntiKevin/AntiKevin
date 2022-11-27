@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**AntiKevin/AntiKevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou Kevin! 🦆
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conheça um pouco sobre mim:
+<img align='right' src='https://https://github.com/AntiKevin/AntiKevin/cat.gif' width='200"'>
+
+👩‍💻 Atualmente trabalho em projetos de DataScience
+
+🧠 Estou aprendendo Machine Learning
+
+👯‍♀️ Procuro colaborar em Projetos de dados
+
+💬 Me pergunte sobre Python, Estátistica e Algebra linear
+
+⚡️ Você pode acabar encontrando gifs de gatinhos por aqui
+
+📫 Kevin_3467@yahoo.com
+
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntiKevin&theme=dark&hide=ProcFile" align='right'/>
+  
+  
+## Stack :fire:
+- Data Analysis com **Python**.
+- Data Science.
+- Python.
+- Machine Learning
+- Deep Learning
+
+
