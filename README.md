@@ -5,7 +5,7 @@
 ## Conheça um pouco sobre mim:
 <img align='right' src='/cat.gif' width='300"' height='200"'>
 
-👩‍💻 Atualmente trabalho em projetos de DataScience
+👩‍💻 Atualmente trabalho em projetos de DataScience e Backend
 
 🧠 Estou aprendendo Machine Learning
 
