@@ -20,7 +20,7 @@
   
   
 ## Stack :fire:
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntiKevin&theme=dark&hide=ProcFile"/>
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntiKevin&theme=dark&hide=ProcFile"/>-->
 
 
 - Data Analysis.
