@@ -1,5 +1,5 @@
 
-# Olá, Meu Nome é Kevin! 🦆
+# Olá, Meu Nome é Kevin!
 
 
 ## Conheça um pouco sobre mim:
