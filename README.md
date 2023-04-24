@@ -23,10 +23,8 @@
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntiKevin&theme=dark&hide=ProcFile"/>-->
 
 
-- Data Analysis.
-- Data Science.
 - Python.
 - Machine Learning
-- Deep Learning
+- Artificial Neural Networks
 - django REST framework
-
+- Nuxt js
