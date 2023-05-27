@@ -13,7 +13,7 @@
 
 💬 Me pergunte sobre Python, Estátistica e Algebra linear
 
-⚡️ Você pode acabar encontrando gifs de gatinhos por aqui
+⚡️ Se você tiver um projeto interessante, sinta-se a vontade pra entrar em contato!
 
 📫 Kevin_3467@yahoo.com
 
