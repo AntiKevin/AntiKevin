@@ -13,7 +13,7 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
-✔ estou atualmente desenvolvendo uma API de criação de imagens com dados do Spotify o **Projeto Oneiros**<br>
+✔ estou atualmente desenvolvendo uma API de criação de imagens com dados do Spotify o **OneirosAPI**<br>
 ✔ Estou aprendendo **deep learning** e **.Net Framework**<br>
 ✔ Gosto de Colaborar com qualquer **Projeto Opensource de Datascience**<br>
  
