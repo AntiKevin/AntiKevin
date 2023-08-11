@@ -12,7 +12,7 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
-✔ estou desenvolvendo uma API de criação de imagens com dados do Spotify a **OneirosAPI**<br>
+✔ estou desenvolvendo uma API de Calculo e organização de empréstimos e investimentos pessoais **LoanGeniusAPI**<br>
 ✔ Estou aprendendo **deep learning** e **Java**<br>
 ✔ Gosto de Colaborar com qualquer **Projeto Opensource da minha stack**<br>
  
