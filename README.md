@@ -12,7 +12,7 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
-✔ estou desenvolvendo uma API de Gerenciamento de empréstimos e investimentos pessoais **LoanGeniusAPI**<br>
+✔ estou desenvolvendo a **LoanGeniusAPI**<br>
 ✔ Estou aprendendo **deep learning** e **Java**<br>
 ✔ Gosto de Colaborar com qualquer **Projeto Opensource da minha stack**<br>
  
