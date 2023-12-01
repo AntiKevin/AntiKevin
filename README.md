@@ -2,8 +2,8 @@
 <h3 align="center">Backend Developer | Data Scientist </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/kevin3467/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.kaggle.com/antikevin" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/astreu___/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="insta_ovindu" height="30" width="30" /></a>
+<a href="https://www.kaggle.com/rkevin" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kevin.rodrgs/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="insta_ovindu" height="30" width="30" /></a>
 </p>
 </p>
 
