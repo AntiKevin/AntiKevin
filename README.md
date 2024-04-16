@@ -13,7 +13,7 @@
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
 ✔ estou desenvolvendo a **LoanGeniusAPI**<br>
-✔ Estou aprendendo **deep learning** e **Java**<br>
+✔ Estou aprendendo **deep learning** e **Blockchain**<br>
 ✔ Gosto de Colaborar com qualquer **Projeto Opensource da minha stack**<br>
  
 
