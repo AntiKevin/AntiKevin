@@ -12,8 +12,8 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
-✔ estou desenvolvendo a **ElasticChain**<br>
-✔ Estou aprendendo **deep learning** e **Blockchain**<br>
+✔ estou desenvolvendo um emulador de gameboy em Rust<br>
+✔ Estou aprendendo **deep learning**<br>
 ✔ Gosto de Colaborar com qualquer **Projeto Opensource da minha stack**<br>
  
 
