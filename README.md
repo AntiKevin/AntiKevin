@@ -23,7 +23,6 @@
 ![GO](https://img.shields.io/badge/-GO-05122A?style=flat&logo=go)&nbsp;
 ![GIN](https://img.shields.io/badge/-GIN-05122A?style=flat&logo=gin)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=4FC08D)&nbsp;
 ![Java](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=java)&nbsp;
