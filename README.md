@@ -19,21 +19,35 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+#### Backend
+![GO](https://img.shields.io/badge/-GO-05122A?style=flat&logo=go)&nbsp;
+![GIN](https://img.shields.io/badge/-GIN-05122A?style=flat&logo=gin)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
-![Java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=4FC08D)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=java)&nbsp;
+![Spring](https://img.shields.io/badge/-spring-05122A?style=flat&logo=spring)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-springboot-05122A?style=flat&logo=springboot)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs&logoColor=4FC08D)&nbsp;
-![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=dotnet&logoColor=512BD4)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=4FC08D)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+
+#### Dados
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
 ![Scikit Learn](https://img.shields.io/badge/-SKLearn-05122A?style=flat&logo=scikitlearn&logoColor=F7931E)&nbsp;
 ![NumPy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy&logoColor=013243)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=150458)&nbsp;
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-05122A?style=flat&logo=elastic&logoColor=150458)&nbsp;
+
+#### Frontend
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![PrimeReact](https://img.shields.io/badge/-PrimeReact-05122A?style=flat&logo=primereact)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
+
+#### Outros
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
