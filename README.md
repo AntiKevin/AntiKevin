@@ -12,8 +12,8 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
-✔ estou desenvolvendo um emulador de gameboy em Rust<br>
-✔ Estou aprendendo **deep learning**<br>
+✔ estou desenvolvendo um emulador de chip-8 em GO<br>
+✔ Estou aprendendo **Golang**<br>
 ✔ Gosto de Colaborar com qualquer **Projeto Opensource da minha stack**<br>
  
 
