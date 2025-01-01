@@ -12,7 +12,7 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
-✔ estou desenvolvendo um emulador de chip-8 e Um serviço de notificações independente<br>
+✔ estou desenvolvendo um emulador de chip-8 e Um serviço de notificações push independente<br>
 ✔ Estou aprendendo **Golang**<br>
 ✔ Gosto de Colaborar com qualquer **Projeto Opensource da minha stack**<br>
  
