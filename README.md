@@ -1,9 +1,12 @@
 <h1 align="center">Kevin Rodrigues </h1>
 <h3 align="center">Backend Developer | Data Engineer </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/kevin3467/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.instagram.com/kevin.rodrgs/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="insta_ovindu" height="30" width="30" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/kevin3467/" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="lin_ovindu" height="30" width="40" />
+  </a>  
+  <a href="https://www.instagram.com/kevin.rodrgs/" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="insta_ovindu" height="30" width="30" />
+  </a>
 </p>
 
   
